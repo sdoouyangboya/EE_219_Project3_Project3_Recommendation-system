@@ -1,0 +1,88 @@
+Column 0
+Comedy
+Action|Comedy|Crime
+Comedy|Drama
+Comedy
+Drama|Romance
+Comedy
+Comedy|Horror|Sci-Fi
+Comedy|Romance
+Drama
+Horror
+Column 2
+Drama
+Action|Comedy|Horror|Sci-Fi
+Action|Adventure|Fantasy
+Horror|Sci-Fi|Thriller
+Action|Adventure|Comedy
+Comedy|Drama|Romance
+Adventure|Comedy|Sci-Fi
+Drama|Romance|Thriller
+Musical|Western
+Action|Adventure|Fantasy
+Column 4
+Documentary
+Adventure|Drama|War
+Action|Comedy|Horror|Sci-Fi
+Comedy
+Comedy|Fantasy|Mystery|Sci-Fi
+Comedy
+Comedy
+Animation|Fantasy|Horror|Sci-Fi
+Animation|Children|Comedy
+Animation|Children|Comedy
+Column 6
+Comedy
+Action|Animation|Drama|Sci-Fi
+Comedy|Drama|Romance
+Horror|Mystery|Thriller
+Action|Crime|Drama
+Documentary
+Comedy|Drama
+Crime|Film-Noir|Mystery|Thriller
+Comedy
+Fantasy|Horror|Thriller
+Column 12
+Comedy|Crime|Romance
+Drama
+Drama
+Drama
+Drama|Musical
+Comedy|Drama|War
+Horror|Thriller
+Comedy
+Horror
+Comedy|Drama
+Column 14
+Drama
+Action|Comedy
+Action|Sci-Fi|Thriller
+Comedy|Drama|War
+Drama|Fantasy|Thriller
+Horror|Thriller
+Adventure|Drama
+Comedy|Drama
+Crime|Drama|Thriller
+Comedy|Horror
+Column 16
+Crime|Drama
+Action|Comedy|Sci-Fi
+Documentary
+Action|Crime|Thriller
+Drama|Film-Noir
+Action|Drama|Horror|Sci-Fi|Thriller
+Comedy|Romance
+Drama
+Crime|Drama
+Action|Crime|Drama|Mystery|Thriller
+Column 18
+Comedy|Drama|Musical
+Documentary
+Drama|Mystery|Sci-Fi
+Comedy|Drama|Romance
+Children|Comedy
+Drama
+Action|Adventure|Sci-Fi
+Action|Adventure|Drama|War
+Horror
+Drama|Romance

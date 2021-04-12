@@ -1,0 +1,5 @@
+
+Total possible ratings: 5931640
+Number Ratings: 100836
+Sparsity: 0.016999683055613623
+
